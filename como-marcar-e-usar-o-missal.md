@@ -179,7 +179,7 @@ Alguns acólitos preferem usar um sistema de cores consistente:
 
 - Protocolo pode ser mais formal
 - Atenção especial às Bênçãos Solenes
-- Pode haver diacono ou mestre de cerimônias auxiliando
+- Pode haver diácono ou mestre de cerimônias auxiliando
 
 ## Recursos Adicionais
 
