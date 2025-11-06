@@ -3,21 +3,23 @@
 title: Manual do Acólito do Missal
 description: Missal e orientações
 
-# Use Minimal Mistakes via remote_theme (works on GitHub Pages)
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: default
+# Use Just the Docs via remote_theme (works on GitHub Pages)
+remote_theme: just-the-docs/just-the-docs
 
-# Plugins (GitHub Pages–compatible) — no content edits required
+# Enable automatic light/dark and show toggle in the header
+color_scheme: auto
+search_enabled: true
+
+# Plugins (GitHub Pages–compatible)
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
 
-# Treat README.md as the site homepage (no index.md needed)
+# Treat README.md as the site homepage
 readme_index:
   enabled: true
   remove_originals: false
@@ -28,13 +30,9 @@ titles_from_headings:
   enabled: true
   strip_title: true
 
-# Make relative links and images in README work under /
-
-# Apply layout defaults to enable sticky TOC on all pages
+# Apply layout defaults suitable for Just the Docs
 defaults:
   - scope:
       path: ""
     values:
-      layout: single
-      toc: true
-      toc_sticky: true
+      layout: default
