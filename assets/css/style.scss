@@ -16,3 +16,11 @@ header h1, header h2, header h3, header p {
   color: #333;
   text-shadow: none;
 }
+
+nav {
+  width: 290px;
+  margin-left: -620px;
+  max-height: 72%;
+  overflow: auto;
+  scrollbar-width: none;
+}
