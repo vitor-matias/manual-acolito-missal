@@ -304,3 +304,26 @@ Sacerdote abençoa a assembleia, invocando a proteção e a graça de Deus. Em o
 ### Envio
 Despedida e envio para viver a fé no dia a dia, com a missão de anunciar o Evangelho com as nossas vidas.
 
+# Como marcar o Missal
+
+As instruções detalhadas de como marcar o Missal estão na IGMR, números 346 a 351.
+
+No entanto há um livro que nos pode ajudar a fazê-lo de forma mais rápida e fácil.
+
+## Diretório Litúrgico
+
+O **Diretório Litúrgico** é um documento oficial da Igreja que indica, para cada dia do ano, os santos que se celebra, as leituras, cor dos paramentos dos sacerdotes, prefácio e orações a usar e outras informações litúrgicas essenciais.
+
+![Capa do Diretório Litúrgico](imgs/diretorio-liturgico-2026.jpg)
+
+![Página do Diretório Litúrgico](imgs/diretorio-liturgico-2026%202.jpg)
+
+## Marcação do Missal com o Diretório Litúrgico
+
+Tendo o Missal e o Diretório Litúrgico, o acólito pode marcar o Missal da seguinte forma:
+
+### Checklist de Marcação Missal
+
+* Verificar a data da missa no Diretório Litúrgico e marcar a página própria do tempo ou dos santos, missa comum ou votiva, conforme indicado.
+    * Caso indique prefácio proprio não é necessario assinalar o prefácio, caso contrario assinalar o prefácio a usar. Caso diga prefácio à escolha pergunta-se ao sacerdote qual usar.
+* Perguntar qual a Oração Eucarística a usar e marcar a respetiva página (ou guardar na memória e utilizar a pega no momento devido). 
