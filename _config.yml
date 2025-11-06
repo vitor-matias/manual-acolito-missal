@@ -1,5 +1,6 @@
 # Site metadata
 title: Manual do Acólito do Missal
+description: Guia completo para acólitos no uso do Missal Romano
 
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
