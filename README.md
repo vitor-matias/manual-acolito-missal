@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Manual do Acólito do Missal Romano"
+---
+
 # Introdução
 
 ## O Missal: o Motor da Liturgia
