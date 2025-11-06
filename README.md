@@ -1,8 +1,6 @@
-# Manual do Acólito do Missal
+# Introdução
 
-## Introdução
-
-### O Missal: o Motor da Liturgia
+## O Missal: o Motor da Liturgia
 
 O **Missal Romano** é o livro que contém as orações, as rubricas e os ritos que estruturam a Eucaristia.
 
@@ -15,7 +13,7 @@ Onde quer que se celebre a Missa — na Baixa da Banheira, em Roma ou em Tóquio
 >Cada página do Missal é uma respiração da Igreja.\
 >Cada gesto do acólito é uma resposta de amor.
 
-### O lugar do acólito
+## O lugar do acólito
 
 O acólito, ao servir o Missal, participa na oração da Igreja de modo **silencioso, mas essencial**.\
 É um ministério de **humildade e precisão**: o livro sagrado passa pelas suas mãos para chegar à oração do povo.
@@ -27,7 +25,7 @@ Quando serve o Missal, o acólito permite que o sacerdote possa rezar com liberd
 >Servir o altar é estar próximo do Mistério.\
 >Servir o Missal é tocar a oração da Igreja.
 
-### O valor espiritual do serviço com o Missal
+## O valor espiritual do serviço com o Missal
 
 Servir o Missal é mais do que segurar ou virar as páginas de um livro.
 É um serviço à Palavra e à oração da Igreja.
@@ -39,23 +37,23 @@ A tua atitude exterior deve traduzir o que o teu coração crê:
 
 >Quem serve o Missal empresta as suas mãos ao sacerdote e o seu recolhimento à Igreja.
 
-## Breve História do Missal Romano
+# Breve História do Missal Romano
 
-### Antes do Concílio de Trento (1570)
+## Antes do Concílio de Trento (1570)
 
 * Utilizavam-se vários livros para a missa (sacramentário, livros de leitura, antifonário).
 * Surgiram manuscritos que unificavam esses conteúdos, chamados *Missale Plenum* (Missal Completo).
 * São Francisco de Assis adotou o missal da corte papal para os franciscanos.
 * A imprensa ajudou a difundir versões variadas, o que levou à necessidade de uniformização.
 
-#### De 1570 a 1960
+### De 1570 a 1960
 
 * O papa São Pio V publicou a primeira edição típica oficial em 1570, após o Concílio de Trento.
 * Houve revisões por Clemente VIII (1604), Urbano VIII (1634), Leão XIII (1884), São Pio X (1920), e Pio XII (1955).
 * Pio XII introduziu mudanças significativas, como o uso de línguas vernáculas na Vigília Pascal.
 * João XXIII publicou a edição de 1962, com alterações como a inclusão de São José no cânon da missa.
 
-#### Revisão após o Concílio Vaticano II
+### Revisão após o Concílio Vaticano II
 
 * Entre 1965 e 1967, mudanças foram feitas conforme o documento *Sacrosanctum Concilium*.
 * Em 1969, São Paulo VI promulgou uma nova edição com grandes reformas:
@@ -64,7 +62,7 @@ A tua atitude exterior deve traduzir o que o teu coração crê:
   * Aumento das leituras bíblicas na missa.
   * Introdução de ciclos litúrgicos trienais e bienais.
 
-#### Revisões posteriores
+### Revisões posteriores
 
 * Edições típicas foram publicadas em 1970, 1975 e 2002 (esta última aprovada por João Paulo II).
 * Bento XVI autorizou correções e acréscimos em 2008.
@@ -72,7 +70,7 @@ A tua atitude exterior deve traduzir o que o teu coração crê:
 
 Fonte: [Missal Romano – Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Missal_Romano)
 
-## Estrutura do Missal
+# Estrutura do Missal
 
 1. Instrução Geral do Missal Romano (IGMR)
    * Explica o sentido teológico e prático de cada parte da Missa.
@@ -116,24 +114,24 @@ Fonte: [Missal Romano – Wikipédia, a enciclopédia livre](https://pt.wikipedi
 
 1. Índices
 
-### Fitas e pegas
+## Fitas e pegas
 
 O Missal tem 6 fitas para marcação dos momentos da celebração.
 
 Tem também 36 pegas (8 claras e 28 escuras)  para acesso rápido a vários momentos e orações.
 
-### Rubricas
+## Rubricas
 
 As rubricas são as notas a vermelho (do latim *ruber*, “vermelho”), que indicam o que se faz, e não o que se diz.
 O acólito deve saber lê-las, porque nelas se encontram as indicações que tornam os gestos claros e belos.
 
-## A Missa vista através do Missal
+# A Missa vista através do Missal
 
 A IGMR tem, de forma detalhada, a sequência de toda a celebração.
 
 De forma resumida, podemos ver as diferentes partes da Missa.
 
-### Ritos Iniciais
+## Ritos Iniciais
 Têm como objetivo reunir a assembleia e prepará-la para celebrar dignamente os mistérios da fé. Incluem gestos e orações que ajudam os fiéis a entrar em atitude de oração, reconhecer a presença de Deus e pedir perdão pelos pecados. Estes ritos criam unidade entre os participantes e introduzem o tema da celebração.
 
 Podemos encontrar os Ritos Iniciais na primeira pega (clara) do Missal:
@@ -143,7 +141,7 @@ Podemos encontrar os Ritos Iniciais na primeira pega (clara) do Missal:
 ![Ritos iniciais no Missal da Presidencia](imgs/ritos_iniciais_presi.jpg)
 
 
-#### Ato Penitencial
+### Ato Penitencial
 Momento em que a assembleia reconhece as próprias faltas diante de Deus e pede perdão. É um gesto de humildade e preparação para participar dignamente da celebração. Pode incluir fórmulas dialogadas ou o Kyrie Eleison.
 
 Podemos encontrar os diversos atos penitenciais na segunda pega (escura) do Missal:
@@ -152,7 +150,7 @@ Podemos encontrar os diversos atos penitenciais na segunda pega (escura) do Miss
 
 ![Atos Penitenciais no Missal da Presidencia](imgs/ato_pen_presi.jpg)
 
-#### Glória
+### Glória
 Hino de louvor dirigido a Deus Pai, Filho e Espírito Santo. É uma oração antiga da Igreja, recitada ou cantada nos domingos (exceto no Advento e na Quaresma) e nas solenidades. Expressa alegria e gratidão pela salvação.
 
 Podemos encontrar o Glória na quinta pega do Missal e na quarta pega do Missal da Presidencia
@@ -161,7 +159,7 @@ Podemos encontrar o Glória na quinta pega do Missal e na quarta pega do Missal 
 
 ![Glória no Missal da Presidencia](imgs/gloria_presi.jpg)
 
-#### Oração Coleta
+### Oração Coleta
 Oração que conclui os ritos iniciais, reunindo as intenções da assembleia e pedindo a Deus que nos prepare para ouvir a Sua Palavra. É dirigida ao Pai, por Cristo, no Espírito Santo.
 
 Podemos encontrar a Oração Coleta na página própria do tempo ou dos santos, missa comum ou votiva, conforme a marcação da missa do dia.
@@ -176,38 +174,38 @@ Podemos encontrar a Oração Coleta na página própria do tempo ou dos santos, 
 
 ---
 
-### Liturgia da Palavra
+## Liturgia da Palavra
 A Liturgia da Palavra é o momento em que Deus fala ao seu povo através das leituras bíblicas. É composta por textos do Antigo e Novo Testamento, salmos e o Evangelho, culminando na homilia e na profissão de fé. Este rito alimenta a fé e prepara os fiéis para a Eucaristia.
 
-#### Primeira Leitura
+### Primeira Leitura
 Trecho da Sagrada Escritura, normalmente do Antigo Testamento (ou Atos dos Apóstolos no Tempo Pascal). Revela a história da salvação e prepara para o Evangelho.
 
 É lida do Livro que tem as leituras e que está sobre o ambão, chamado Lecionário.
 
 ![1 Leitura](imgs/1%20leitura.jpeg)
 
-#### Salmo Responsorial
+### Salmo Responsorial
 Resposta orante à primeira leitura. É um cântico inspirado que expressa louvor, súplica ou ação de graças. Geralmente é cantado, com refrão repetido pela assembleia.
 
 Lido do Lecionário ou cantado de um livro de canto próprio.
 
 ![Salmo Responsorial](imgs/salmo.jpeg)
 
-#### Segunda Leitura
+### Segunda Leitura
 Leitura das cartas apostólicas ou do Apocalipse, proclamada nos domingos e solenidades. Ajuda a compreender a vida cristã à luz da fé.
 
 Lido do Lecionário.
 
 ![2 Leitura](imgs/2%20leitura.jpeg)
 
-#### Evangelho
+### Evangelho
 Proclamação da Boa Nova de Cristo, momento central da Liturgia da Palavra. É precedido pelo Aleluia (exceto na Quaresma, onde é substituido por outro cântico, tipicamente, por Louvor a Vós ou Glória a Vós ou variante) e acompanhado de sinais de respeito (como a aclamação e a incensação).
 
 Lido do Lecionário ou do Evangeliário pelo Sacerdote ou Diácono.
 
 ![Evangelho](imgs/evangelho.jpeg)
 
-#### Profissão de fé/Credo
+### Profissão de fé/Credo
 Profissão de fé da comunidade cristã, reafirmando as verdades fundamentais da fé católica. Pode ser o Credo Niceno-Constantinopolitano ou o Credo Apostólico/Simbolo dos Apóstolos.
 
 Podemos encontrar o Credo na sexta pega do Missal e na quinta pega do Missal da Presidenci
@@ -216,7 +214,7 @@ Podemos encontrar o Credo na sexta pega do Missal e na quinta pega do Missal da 
 
 ![Credo no Missal da Presidencia](imgs/credo_presi.jpg)
 
-#### Oração Universal
+### Oração Universal
 Preces da comunidade pelas necessidades da Igreja, do mundo, dos necessitados e da assembleia. Expressa a dimensão comunitária e missionária da fé.
 
 Lido a partir do livro da Oração Universal. Se o livro estiver guardado numa credencia deve ser entregue ao Sacerdote.
@@ -225,18 +223,18 @@ Neste momento também são, tipicamente, lidas as intenções que os fieis pedir
 
 ---
 
-### Liturgia Eucarística
+## Liturgia Eucarística
 A Liturgia Eucarística é o coração da Missa. Nela, os dons de pão e vinho são apresentados, consagrados e distribuídos aos fiéis como Corpo e Sangue de Cristo. Este rito renova o sacrifício de Cristo na cruz e une os participantes à sua entrega.
 
-#### Oração Sobre as Oblatas
+### Oração Sobre as Oblatas
 Oração sobre os dons apresentados (pão e vinho), pedindo que Deus os aceite e os transforme para nossa salvação.
 
 Podemos encontrar a Oração Coleta na página própria do tempo ou dos santos, missa comum ou votiva, conforme a marcação da missa do dia.
 
-#### Prefácio
+### Prefácio
 Introdução ao cântico do Santo, louvor a Deus pelas suas maravilhas e pela obra da redenção. Varia conforme o tempo litúrgico ou a festa celebrada.
 
-#### Oração Eucarística
+### Oração Eucarística
 Oração central da Missa, que inclui:
 - **Epiclese**: invocação do Espírito Santo sobre os dons.
 - **Narrativa da Instituição**: palavras de Jesus na Última Ceia.
@@ -244,31 +242,31 @@ Oração central da Missa, que inclui:
 - **Intercessões**: pela Igreja, pelos vivos e pelos defuntos.
 - **Doxologia Final**: louvor final, concluído pelo "Amém" da assembleia.
 
-#### Ritos da Comunhão
+### Ritos da Comunhão
 Têm como objetivo preparar os fiéis para receberem o Corpo e Sangue de Cristo e viverem plenamente a união com Deus e com a comunidade. Incluem orações e gestos que expressam reconciliação, paz e gratidão.
 
-##### Pai Nosso
+#### Pai Nosso
 Oração ensinada por Jesus, rezada por toda a assembleia como preparação para a comunhão.
 
-##### Rito da Libertação/Embolismo
+#### Rito da Libertação/Embolismo
 Após o Pai Nosso, o sacerdote reza uma oração chamada **embolismo**, que desenvolve a última petição do Pai Nosso ("livrai-nos do mal"), pedindo libertação do pecado e a paz. 
 
-##### Saudação da Paz
+#### Saudação da Paz
 Gesto de reconciliação e fraternidade, sinal de comunhão entre os fiéis.
 
-##### Cordeiro de Deus
+#### Cordeiro de Deus
 Invocação a Cristo como Cordeiro que tira o pecado do mundo, acompanhando a fração do pão.
 
-##### Oração depois da Comunhão
+#### Oração depois da Comunhão
 Ação de graças pelos dons recebidos, pedindo que a Eucaristia produza frutos na vida cristã.
 
 ---
 
-### Ritos da Conclusão
+## Ritos da Conclusão
 Encerram a celebração e enviam os fiéis para viverem a fé no dia a dia. É um momento breve, mas essencial, que reforça a missão cristã no mundo.
 
-#### Bênção Final
+### Bênção Final
 Sacerdote abençoa a assembleia, invocando a proteção e a graça de Deus. Em ocasiões especiais pode ser dada uma Bênção Solene.
 
-#### Envio
+### Envio
 Despedida e envio para viver a fé no dia a dia, com a missão de anunciar o Evangelho com as nossas vidas.
