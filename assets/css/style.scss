@@ -5,13 +5,5 @@
 /* Banner background */
 #banner {
   background-color: #B22222; /* liturgical red */
-}
-
-/* Ensure good contrast for text and links on the new background */
-#banner, #banner a, #banner h2, #banner p {
-  color: #ffffff;
-}
-
-#banner a:hover, #banner a:focus {
-  color: #fff3f3;
+  border-color: darken(#B22222, 25%);
 }
