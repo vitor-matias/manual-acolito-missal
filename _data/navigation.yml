@@ -1,0 +1,9 @@
+- title: Manual do Acólito do Missal
+  url: /
+  children:
+    - title: Introdução
+      url: /#introdução
+    - title: Estrutura do Missal
+      url: /#estrutura-do-missal
+    - title: Ritos Iniciais
+      url: /#ritos-iniciais

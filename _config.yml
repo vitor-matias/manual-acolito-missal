@@ -17,12 +17,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
+  - jekyll-toc
 
 # Treat README.md as the site homepage
 readme_index:
   enabled: true
   remove_originals: false
-  with_frontmatter: false
+  with_frontmatter: true
 
 # Use the first H1 in README as the page title
 titles_from_headings:
