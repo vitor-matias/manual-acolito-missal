@@ -1,0 +1,21 @@
+// assets/css/color_schemes/_auto.scss
+// Minimal color scheme partial to satisfy import "./color_schemes/auto"
+// This file provides fallback variables used by the site's styles. Adjust values as needed.
+
+// Primary colors (tweak to match your design)
+$jtd-color-primary: #0969da !default;
+$jtd-color-primary-foreground: #ffffff !default;
+
+// Backgrounds
+$jtd-color-surface: #ffffff !default;
+$jtd-color-muted: #f6f8fa !default;
+
+// Text
+$jtd-color-text: #24292f !default;
+$jtd-color-muted-text: #6a737d !default;
+
+// Accent / success / danger
+$jtd-color-success: #28a745 !default;
+$jtd-color-danger: #d73a49 !default;
+
+// If the theme expects more variables, define them here or import a theme-provided scheme.
