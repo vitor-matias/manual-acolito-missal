@@ -326,4 +326,15 @@ Tendo o Missal e o Diretório Litúrgico, o acólito pode marcar o Missal da seg
 
 * Verificar a data da missa no Diretório Litúrgico e marcar a página própria do tempo ou dos santos, missa comum ou votiva, conforme indicado.
     * Caso indique prefácio proprio não é necessario assinalar o prefácio, caso contrario assinalar o prefácio a usar. Caso diga prefácio à escolha pergunta-se ao sacerdote qual usar.
-* Perguntar qual a Oração Eucarística a usar e marcar a respetiva página (ou guardar na memória e utilizar a pega no momento devido). 
+* Perguntar qual a Oração Eucarística a usar e marcar a respetiva página (ou guardar na memória e utilizar a pega no momento devido).
+* Assinalar outros momentos a pedido do Sacerdote (ato penitencial/benção final especificos, por exemplo)
+
+
+# Resumo das mudanças de página/secção do Missal durante uma Missa normal
+
+1. Página própria do tempo/santos (oração coleta)  
+1. Página própria do tempo/santos (oração sobre as oblatas)  
+1. Prefácio  
+1. Oração Eucarística  
+1. Ritos da Comunhão  
+1. Página própria do tempo/santos (oração após a comunhão)
