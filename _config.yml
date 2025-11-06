@@ -1,8 +1,6 @@
 # Site metadata
 title: Manual do Acólito do Missal
 description: Missal e orientações
-url: "https://vitor-matias.github.io"
-baseurl: "/manual-acolito-missal"
 
 # Use Minimal Mistakes via remote_theme (works on GitHub Pages)
 remote_theme: "mmistakes/minimal-mistakes"
