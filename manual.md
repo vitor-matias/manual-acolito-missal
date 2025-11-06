@@ -219,7 +219,9 @@ Podemos encontrar o Credo na sexta pega do Missal e na quinta pega do Missal da 
 #### Oração Universal
 Preces da comunidade pelas necessidades da Igreja, do mundo, dos necessitados e da assembleia. Expressa a dimensão comunitária e missionária da fé.
 
-Lido a partir do livro da Oração Universal
+Lido a partir do livro da Oração Universal. Se o livro estiver guardado numa credencia deve ser entregue ao Sacerdote.
+
+Neste momento também são, tipicamente, lidas as intenções que os fieis pediram para rezar na missa, pelo falecimento de um familiar ou em ação de graças a um Santo. O acólito deve entregar as intenções ao Sacerdote neste momento.
 
 ---
 
