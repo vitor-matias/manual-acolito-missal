@@ -272,4 +272,3 @@ Sacerdote abençoa a assembleia, invocando a proteção e a graça de Deus. Em o
 
 #### Envio
 Despedida e envio para viver a fé no dia a dia, com a missão de anunciar o Evangelho com as nossas vidas.
-
