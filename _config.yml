@@ -32,15 +32,3 @@ defaults:
 
 # Search
 search: true
-
-# Pagination
-paginate: 10
-paginate_path: /page:num/
-
-# Archive settings
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
