@@ -8,14 +8,6 @@ remote_theme: "mmistakes/minimal-mistakes"
 # Minimal Mistakes theme settings
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# Site Author
-author:
-  name: "Manual do Acólito"
-  avatar: ""
-  bio: "Orientações e recursos litúrgicos"
-  location: ""
-  links: []
-
 # Plugins (GitHub Pages–compatible)
 plugins:
   - jekyll-remote-theme
