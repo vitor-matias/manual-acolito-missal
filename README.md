@@ -231,6 +231,8 @@ A Liturgia Eucarística é o coração da Missa. Nela, os dons de pão e vinho s
 #### Oração Sobre as Oblatas
 Oração sobre os dons apresentados (pão e vinho), pedindo que Deus os aceite e os transforme para nossa salvação.
 
+Podemos encontrar a Oração Coleta na página própria do tempo ou dos santos, missa comum ou votiva, conforme a marcação da missa do dia.
+
 #### Prefácio
 Introdução ao cântico do Santo, louvor a Deus pelas suas maravilhas e pela obra da redenção. Varia conforme o tempo litúrgico ou a festa celebrada.
 
