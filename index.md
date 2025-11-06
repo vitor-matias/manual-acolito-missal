@@ -231,6 +231,8 @@ Neste momento também são, tipicamente, lidas as intenções que os fieis pedir
 ## Liturgia Eucarística
 A Liturgia Eucarística é o coração da Missa. Nela, os dons de pão e vinho são apresentados, consagrados e distribuídos aos fiéis como Corpo e Sangue de Cristo. Este rito renova o sacrifício de Cristo na cruz e une os participantes à sua entrega.
 
+Caso se esteja a usar o Missal da Presidência, o acólito deve mudar para o Missal completo nesta parte da missa, que será colocado numa estante sobre o altar e aberto na página com a oração sobre as oblatas. O Missal da Presidencia e respetiva estante são arrumados de forma a não atrapalhar o sacerdote ou o movimento dos acólitos durante a celebração.
+
 ### Oração Sobre as Oblatas
 Oração sobre os dons apresentados (pão e vinho), pedindo que Deus os aceite e os transforme para nossa salvação.
 
@@ -247,8 +249,24 @@ Oração central da Missa, que inclui:
 - **Intercessões**: pela Igreja, pelos vivos e pelos defuntos.
 - **Doxologia Final**: louvor final, concluído pelo "Amém" da assembleia.
 
+Existem várias orações eucarísticas. As mais usadas são a I, II, III e IV.
+
+Estão localizadas nas pegas claras da imagem, de baixo para cima.
+
+![Orações Eucarísticas no Missal](imgs/orações%20eucaristicas.jpg)
+
+Atenção que as Orações Eucaristicas têm o seu proprio prefácio. Caso a celebração utilize um prefácio especial, o da Oração Eucaristica não deve ser lido. Pode-se fazer uso das pegas escuras para saltar o prefácio da Oração Eucaristica.
+
+Também temos as Orações Eucarísticas da Reconciliação (na imagem são as pegas claras) e a Oração Eucarística V/"para diversas necessidades", que tem 4 variantes (pegas escuras).
+
+![Orações Eucarísticas da Reconciliação no Missal](imgs/oracoes%20eucaristicas%202.jpg)
+
 ### Ritos da Comunhão
 Têm como objetivo preparar os fiéis para receberem o Corpo e Sangue de Cristo e viverem plenamente a união com Deus e com a comunidade. Incluem orações e gestos que expressam reconciliação, paz e gratidão.
+
+Estão localizados na pega clara mais acima.
+
+![Ritos da Comunhão no Missal](imgs/ritos%20da%20comunhao.jpg)
 
 #### Pai Nosso
 Oração ensinada por Jesus, rezada por toda a assembleia como preparação para a comunhão.
@@ -265,13 +283,24 @@ Invocação a Cristo como Cordeiro que tira o pecado do mundo, acompanhando a fr
 #### Oração depois da Comunhão
 Ação de graças pelos dons recebidos, pedindo que a Eucaristia produza frutos na vida cristã.
 
+Caso se esteja a usar o Missal da Presidência, o acólito deve arrumar o Missal completo que está sobre o altar e repor o Missal da Presidência e respetiva estante nesta parte da missa.
+
+Aqui o acólito deve voltar à página própria do tempo ou dos santos, missa comum ou votiva, conforme a marcação da missa do dia.
+
 ---
 
 ## Ritos da Conclusão
 Encerram a celebração e enviam os fiéis para viverem a fé no dia a dia. É um momento breve, mas essencial, que reforça a missão cristã no mundo.
+
+Encontram-se na pega escura mais acima do Missal.
+
+![Ritos da Conclusão no Missal](imgs/ritos%20conclusao%20missal.jpg)
+
+![Ritos da Conclusão no Missal da Presidencia](imgs/ritos%20conclusao%20presi.jpg)
 
 ### Bênção Final
 Sacerdote abençoa a assembleia, invocando a proteção e a graça de Deus. Em ocasiões especiais pode ser dada uma Bênção Solene.
 
 ### Envio
 Despedida e envio para viver a fé no dia a dia, com a missão de anunciar o Evangelho com as nossas vidas.
+
