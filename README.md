@@ -1,4 +1,11 @@
+---
+title: Manual do Acólito do Missal
+layout: default
+---
+
 # Manual do Acólito do Missal
+
+{% toc %}
 
 ## Introdução
 
