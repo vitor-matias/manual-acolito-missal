@@ -18,11 +18,11 @@ Onde quer que se celebre a Missa — na Baixa da Banheira, em Roma ou em Tóquio
 ### O lugar do acólito
 
 O acólito, ao servir o Missal, participa na oração da Igreja de modo **silencioso, mas essencial**.\
-É um ministério de **humildade e precisão**: o livro sagrado passa pelas suas mãos para chegar à oração do povo.\
+É um ministério de **humildade e precisão**: o livro sagrado passa pelas suas mãos para chegar à oração do povo.
 
 O acólito **não é protagonista**.\
 Ele é servidor das ações, das palavras, e dos gestos.\
-Quando serve o Missal, o acólito permite que o sacerdote possa rezar com liberdade e dignidade.\
+Quando serve o Missal, o acólito permite que o sacerdote possa rezar com liberdade e dignidade.
 
 >Servir o altar é estar próximo do Mistério.\
 >Servir o Missal é tocar a oração da Igreja.
