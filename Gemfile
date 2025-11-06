@@ -4,10 +4,11 @@ gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem "jekyll-remote-theme"
-  gem "jekyll-readme-index"
-  gem "jekyll-relative-links"
-  gem "jekyll-seo-tag"
+  gem "jekyll-include-cache"
+  gem "jekyll-paginate"
   gem "jekyll-sitemap"
-  gem "jekyll-titles-from-headings"
-  gem "jekyll-toc"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jekyll-readme-index"
+  gem "jemoji"
 end

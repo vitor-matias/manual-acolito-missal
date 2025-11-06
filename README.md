@@ -1,6 +1,10 @@
 ---
 title: Manual do Acólito do Missal
-layout: default
+layout: single
+toc: true
+toc_label: "Índice"
+toc_icon: "list"
+toc_sticky: true
 ---
 
 # Manual do Acólito do Missal
