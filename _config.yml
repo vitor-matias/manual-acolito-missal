@@ -1,0 +1,29 @@
+---
+# Site metadata
+title: Manual do Acólito
+description: Missal e orientações
+
+# Theme (no other files needed)
+remote_theme: just-the-docs/just-the-docs
+
+# Plugins supported by GitHub Pages that require no file changes
+plugins:
+  - jekyll-remote-theme
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+
+# Treat README.md as the site homepage without creating index.md
+readme_index:
+  enabled: true
+  remove_originals: false
+  with_frontmatter: false
+
+# Use the first H1 in README as the page title
+titles_from_headings:
+  enabled: true
+  strip_title: true
+
+# Make relative links and images in README work under /
