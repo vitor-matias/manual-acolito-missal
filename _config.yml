@@ -1,20 +1,23 @@
 ---
 # Site metadata
-title: Manual do Acólito do Missal
+title: Manual do Acólito
 description: Missal e orientações
 
-# Use GitHub Pages built-in Primer theme (great for README-style sites)
-theme: jekyll-theme-primer
+# Use Minimal Mistakes via remote_theme (works on GitHub Pages)
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
 
-# Plugins (no content changes required)
+# Plugins (GitHub Pages–compatible) — no content edits required
 plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
 
-# Treat README.md as the site homepage without creating index.md
+# Treat README.md as the site homepage (no index.md needed)
 readme_index:
   enabled: true
   remove_originals: false
@@ -26,3 +29,12 @@ titles_from_headings:
   strip_title: true
 
 # Make relative links and images in README work under /
+
+# Apply layout defaults to enable sticky TOC on all pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      toc: true
+      toc_sticky: true
