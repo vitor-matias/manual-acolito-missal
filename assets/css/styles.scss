@@ -1,8 +1,10 @@
+---
+---
 /* Pick a liturgical red. Common choices include:
    - #B22222 (Firebrick)
    - #A40000 (deep liturgical red)
    - #C00000 (crimson)
 */
-$banner-bg: #B22222; // liturgical red
+$banner-bg: #B22222;  // liturgical red
 
 @import "{{ site.theme }}";
