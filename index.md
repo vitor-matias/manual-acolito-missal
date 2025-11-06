@@ -322,12 +322,12 @@ O **Diretório Litúrgico** é um documento oficial da Igreja que indica, para c
 
 Tendo o Missal e o Diretório Litúrgico, o acólito pode marcar o Missal da seguinte forma:
 
-### Checklist de Marcação Missal
+### Checklist de Marcação do Missal
 
 * Verificar a data da missa no Diretório Litúrgico e marcar a página própria do tempo ou dos santos, missa comum ou votiva, conforme indicado.
     * Caso indique prefácio proprio não é necessario assinalar o prefácio, caso contrario assinalar o prefácio a usar. Caso diga prefácio à escolha pergunta-se ao sacerdote qual usar.
 * Perguntar qual a Oração Eucarística a usar e marcar a respetiva página (ou guardar na memória e utilizar a pega no momento devido).
-* Assinalar outros momentos a pedido do Sacerdote (ato penitencial/benção final especificos, por exemplo)
+* Assinalar outros momentos a pedido do Sacerdote (ato penitencial/bênção final especificos, por exemplo)
 
 
 # Resumo das mudanças de página/secção do Missal durante uma Missa normal
