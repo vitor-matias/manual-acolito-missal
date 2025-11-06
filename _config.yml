@@ -3,18 +3,23 @@
 title: Manual do Acólito do Missal
 description: Missal e orientações
 
-# Use GitHub Pages built-in Primer theme (great for README-style sites)
-theme: jekyll-theme-primer
+# Use Just the Docs via remote_theme (works on GitHub Pages)
+remote_theme: just-the-docs/just-the-docs
 
-# Plugins (no content changes required)
+# Enable automatic light/dark and show toggle in the header
+color_scheme: auto
+search_enabled: true
+
+# Plugins (GitHub Pages–compatible)
 plugins:
+  - jekyll-remote-theme
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
 
-# Treat README.md as the site homepage without creating index.md
+# Treat README.md as the site homepage
 readme_index:
   enabled: true
   remove_originals: false
@@ -25,4 +30,9 @@ titles_from_headings:
   enabled: true
   strip_title: true
 
-# Make relative links and images in README work under /
+# Apply layout defaults suitable for Just the Docs
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
