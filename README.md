@@ -5,8 +5,6 @@ layout: default
 
 # Manual do Acólito do Missal
 
-{% toc %}
-
 ## Introdução
 
 ### O Missal: o Motor da Liturgia
