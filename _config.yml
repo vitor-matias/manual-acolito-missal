@@ -27,15 +27,6 @@ plugins:
   - jemoji
   - jekyll-readme-index
 
-# Reading Files
-include:
-  - README.md
-
-# Treat README.md as the site homepage
-readme_index:
-  enabled: true
-  remove_originals: false
-
 # Apply layout defaults
 defaults:
   - scope:
