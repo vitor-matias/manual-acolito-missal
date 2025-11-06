@@ -32,8 +32,8 @@ Quando serve o Missal, o acólito permite que o sacerdote possa rezar com liberd
 
 ## O valor espiritual do serviço com o Missal
 
-Servir o Missal é mais do que segurar ou virar as páginas de um livro.
-É um serviço à Palavra e à oração da Igreja.
+Servir o Missal é mais do que virar as páginas ou segurar um livro.\
+É um serviço à Palavra e à oração da Igreja.\
 A tua atitude exterior deve traduzir o que o teu coração crê:
 
 * **Silêncio**, porque é Deus quem fala
