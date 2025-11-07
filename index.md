@@ -21,7 +21,7 @@ O **Missal Romano** é o livro que contém as orações, as rubricas e os ritos 
 
 Não é um simples livro: é um **símbolo da unidade da Igreja**.
 
-Onde quer que se celebre a Missa — na Baixa da Banheira, em Roma ou em Tóquio — o sacerdote reza as mesmas palavras, retiradas do mesmo livro. Por isso, o Missal é também **símbolo da comunhão**: todos rezamos “com uma só voz e um só coração”.
+Onde quer que se celebre a Missa, na Baixa da Banheira, em Roma ou em Tóquio, o sacerdote reza as mesmas palavras, retiradas do mesmo livro. Por isso, o Missal é também **símbolo da comunhão**: todos rezamos “com uma só voz e um só coração”.
 
 >Cada página do Missal é uma respiração da Igreja.\
 >Cada gesto do acólito é uma resposta de amor.
@@ -44,8 +44,8 @@ Servir o Missal é mais do que virar páginas ou segurar um livro.\
 É um serviço à Palavra e à oração da Igreja.\
 A tua atitude exterior deve traduzir o que o teu coração crê:
 
-* **Silêncio**, porque é Deus quem fala\
-* **Estabilidade**, porque é Cristo quem age\
+* **Silêncio**, porque é Deus quem fala
+* **Estabilidade**, porque é Cristo quem age
 * **Reverência**, porque é o altar do sacrifício
 
 >Quem serve o Missal empresta as suas mãos ao sacerdote e o seu recolhimento à Igreja.
