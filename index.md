@@ -3,6 +3,9 @@ layout: default
 title: "Manual do Acólito do Missal Romano"
 ---
 
+* Índice
+{:toc}
+
 # Introdução
 
 ## Missal Romano: o Motor da Liturgia
@@ -25,7 +28,7 @@ O acólito, ao servir o Missal, participa na oração da Igreja de modo **silenc
 
 O acólito **não é protagonista**.\
 Ele é servidor das ações, das palavras e dos gestos.\
-Quando serve o Missal, o acólito permite que o sacerdote possa rezar com liberdade e dignidade.\
+Quando serve o Missal, o acólito permite que o sacerdote possa rezar com liberdade e dignidade.
 
 >Servir o altar é estar próximo do Mistério.\
 >Servir o Missal é tocar a oração da Igreja.
