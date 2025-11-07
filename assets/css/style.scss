@@ -2,9 +2,21 @@
 ---
 @import "{{ site.theme }}";
 
-/* Banner background */
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #0d1117;
+    color: #c9d1d9;
+  }
+  
+  a {
+    color: #58a6ff;
+  }
+}
+
+/* Banner background
 #banner {
-  background-color: #B22222; /* liturgical red */
+  background-color: #B22222; /* liturgical red 
   border-color: darken(#B22222, 10%);
 }
 
@@ -28,4 +40,4 @@ nav {
 section {
   padding-left: 6px;
   padding-right: 6px;
-}
+} */
