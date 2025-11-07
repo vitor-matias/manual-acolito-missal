@@ -371,7 +371,7 @@ O sacerdote costuma sinalizar a necessidade de viragem com gestos discretos, com
 
 As mudanças para outras partes do Missal, feitas através de fitas ou pegas, geralmente oferecem mais tempo para serem executadas. Por exemplo, o final do prefácio é sempre seguido pelo cântico "Santo", o que permite ao acólito ir com calma para a página da Oração Eucarística.
 
-# Resumo das mudanças de página/secção do Missal durante uma Missa normal
+## Resumo das mudanças de página/secção do Missal durante uma Missa normal
 
 1. Página própria do tempo/santos (oração coleta)  
 1. Página própria do tempo/santos (oração sobre as oblatas)  
