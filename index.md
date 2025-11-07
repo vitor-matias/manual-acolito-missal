@@ -94,7 +94,7 @@ Fonte: [Missal Romano – Wikipédia, a enciclopédia livre](https://pt.wikipedi
       * Instruções para esta parte da Missa; inclui a profissão de fé.  
    1. Liturgia Eucarística  
       1. Prefácios  
-      1. Orações Eucarísticas (I a VI)  
+      1. Orações Eucarísticas (I a IV)  
       1. Ritos da Comunhão  
       1. Ritos de Conclusão  
       1. Bênçãos Solenes  
