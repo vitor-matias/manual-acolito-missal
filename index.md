@@ -3,13 +3,8 @@ layout: default
 title: "Manual do Acólito do Missal Romano"
 ---
 
-<details>
-<summary>📖 Índice</summary>
-
-* TOC
+# Índice
 {:toc}
-
-</details>
 
 # Introdução
 
