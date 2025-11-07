@@ -6,6 +6,7 @@ title: "Manual do Acólito do Missal Romano"
 <details>
 <summary>📖 Índice</summary>
 
+* TOC
 {:toc}
 
 </details>
