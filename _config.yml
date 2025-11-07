@@ -2,6 +2,8 @@
 title: Manual do Acólito do Missal
 description: Guia para acólitos no uso do Missal Romano
 
-remote_theme: pages-themes/leap-day
+remote_theme: pages-themes/primer
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jemoji
