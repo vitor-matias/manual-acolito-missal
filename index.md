@@ -3,7 +3,7 @@ layout: default
 title: "Manual do Acólito do Missal Romano"
 ---
 
-<details markdown="1">
+<details>
 <summary>📖 Índice</summary>
 
 * TOC
@@ -33,7 +33,7 @@ O acólito, ao servir o Missal, participa na oração da Igreja de modo **silenc
 
 O acólito **não é protagonista**.\
 Ele é servidor das ações, das palavras e dos gestos.\
-Quando serve o Missal, o acólito permite que o sacerdote possa rezar com liberdade e dignidade.
+Quando serve o Missal, o acólito permite que o sacerdote possa rezar com liberdade, dignidade de modo a ser espelho da Graça Divina durante a celebração.
 
 >Servir o altar é estar próximo do Mistério.\
 >Servir o Missal é tocar a oração da Igreja.
@@ -357,6 +357,20 @@ Tendo o Missal e o Diretório Litúrgico, o acólito pode marcar o Missal da seg
   * Caso indique prefácio próprio, não é necessário assinalar o prefácio; caso contrário, marcar o prefácio a usar. Se disser "prefácio à escolha", pergunta-se ao sacerdote qual usar.  
 * Perguntar qual a Oração Eucarística a usar e marcar a respetiva página (ou guardar na memória e usar a pega no momento devido).  
 * Assinalar outros momentos a pedido do sacerdote (ato penitencial ou bênção final específicos, por exemplo).
+
+# O Acólito do Missal durante a Celebração
+
+Durante a celebração e perante o Missal devidamente marcado, o acólito tem de estar atento aos momentos em que o sacerdote precisa que seja feita a passagem das páginas ou mudanças de secção.
+
+Também deve estar atento às alturas em que outros livros ou textos, como o da Oração Universal ou as intenções pedidas, são necessários para os passar ao sacerdote.
+
+Os movimentos devem ser lentos, precisos, reverentes para não perturbar a leitura. Especial atenção para não cobrir o texto com as mãos, braços ou mangas.
+
+Ao virar as páginas deve observar o conteúdo para perceber se a pagina que virou é a correta e quando deve passar para a seguinte.
+
+O sacerdote normalmente sinaliza quando precisa que se vire a página, recolhendo as mãos ou fazendo um gesto, mas o acólito deve estar sempre atento para antecipar esse momento.
+
+As alturas que exigem a passagem para outras partes do Missal através de uma fita ou pega têm mais tempo para serem executados, como por exemplo, o final do prefácio que tem sempre o cântico do Santo e permite que o acólito passe para a oração eucarística com calma.
 
 # Resumo das mudanças de página/secção do Missal durante uma Missa normal
 
