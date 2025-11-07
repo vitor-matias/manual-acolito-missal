@@ -3,7 +3,7 @@ layout: default
 title: "Manual do Acólito do Missal Romano"
 ---
 
-<details>
+<details markdown="1">
 <summary>📖 Índice</summary>
 
 * TOC
