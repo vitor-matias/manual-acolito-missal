@@ -5,7 +5,7 @@ title: "Manual do Acólito do Missal Romano"
 
 # Introdução
 
-## O Missal: o Motor da Liturgia
+## Missal Romano: o Motor da Liturgia
 
 O **Missal Romano** é o livro que contém as orações, as rubricas e os ritos que estruturam a Eucaristia.
 
@@ -267,7 +267,7 @@ Estão localizadas nas pegas claras da imagem, de baixo para cima.
 
 ![Orações Eucarísticas no Missal](imgs/orações%20eucaristicas.jpg)
 
-Atenção: as Orações Eucarísticas têm o seu próprio prefácio. Caso a celebração utilize um prefácio especial, o da Oração Eucarística não deve ser lido. Pode-se usar as pegas escuras para saltar o prefácio da Oração Eucarística.
+**Atenção**: as Orações Eucarísticas têm o seu próprio prefácio. Caso a celebração utilize um prefácio especial, o da Oração Eucarística não deve ser lido. Pode-se usar as pegas escuras para saltar o prefácio da Oração Eucarística.
 
 Também existem as **Orações Eucarísticas da Reconciliação** (na imagem, as pegas claras) e a **Oração Eucarística V** (“para diversas necessidades”), que tem quatro variantes (pegas escuras).
 
