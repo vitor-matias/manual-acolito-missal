@@ -360,14 +360,15 @@ Tendo o Missal e o Diretório Litúrgico, o acólito pode marcar o Missal da seg
 
 # O Acólito do Missal durante a Celebração
 
-Durante a celebração e com o Missal devidamente marcado, o acólito deve estar atento aos momentos em que o sacerdote necessita da passagem de página ou mudança de secção.
+Durante a celebração e com o Missal devidamente marcado, o acólito deve estar **atento aos momentos** em que o sacerdote necessita da passagem de página ou mudança de secção.
 
-Também deve estar vigilante quanto às alturas em que outros livros ou textos, como o da Oração Universal ou as intenções dos fiéis, são necessários para os entregar ao sacerdote com prontidão e discrição.
+Também deve estar vigilante quanto às alturas em que outros livros ou textos, como o da Oração Universal ou as intenções dos fiéis, são necessários para os entregar ao sacerdote com **prontidão e discrição**.
 
-Os movimentos devem ser lentos, precisos e reverentes de modo a não perturbar a leitura nem distrair a assembleia. É essencial evitar cobrir o texto com as mãos, braços ou mangas.
-Ao virar as páginas, o acólito deve confirmar se a página aberta é a correta e perceber quais as palavras que precedem a viragem seguinte. Este gesto deve ser feito com naturalidade, sem pressa, mas com atenção.
+Os movimentos devem ser **lentos, precisos e reverentes** de modo a **não perturbar** a leitura nem distrair a assembleia. É essencial evitar cobrir o texto com as mãos, braços ou mangas.
 
-O sacerdote costuma sinalizar a necessidade de viragem com gestos discretos, como recolher as mãos ou fazer uma pausa, mas o acólito deve procurar antecipar esses momentos, para isso tem de conhecer bem o ritmo da celebração.
+Ao virar as páginas, o acólito deve confirmar se a página aberta é a correta e perceber quais as palavras que precedem a viragem seguinte. Este gesto deve ser feito com **naturalidade, sem pressa, mas com atenção**.
+
+O sacerdote costuma sinalizar a necessidade de viragem com gestos discretos, como recolher as mãos ou fazer uma pausa, mas o acólito deve **procurar antecipar** esses momentos, para isso tem de **conhecer bem o ritmo da celebração**.
 
 As mudanças para outras partes do Missal, feitas através de fitas ou pegas, geralmente oferecem mais tempo para serem executadas. Por exemplo, o final do prefácio é sempre seguido pelo cântico "Santo", o que permite ao acólito ir com calma para a página da Oração Eucarística.
 
