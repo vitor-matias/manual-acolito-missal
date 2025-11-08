@@ -354,7 +354,8 @@ Tendo o Missal e o Diretório Litúrgico, o acólito pode marcar o Missal da seg
 ### Checklist de Marcação do Missal
 
 * Verificar a data da Missa no Diretório Litúrgico e marcar a página própria do tempo ou dos santos, missa comum ou votiva, conforme indicado.  
-  * Caso indique prefácio próprio, não é necessário assinalar o prefácio; caso contrário, marcar o prefácio a usar. Se disser "prefácio à escolha", pergunta-se ao sacerdote qual usar.  
+  * Caso indique prefácio próprio, não é necessário assinalar o prefácio; caso contrário, marcar o prefácio a usar. Se disser "prefácio à escolha", pergunta-se ao sacerdote qual usar.
+  * Caso na página própria indique ato penitencial, prefácio, bênção, etc, marcar as páginas mencionadas.
 * Perguntar qual a Oração Eucarística a usar e marcar a respetiva página (ou guardar na memória e usar a pega no momento devido).  
 * Assinalar outros momentos a pedido do sacerdote (ato penitencial ou bênção final específicos, por exemplo).
 
