@@ -59,14 +59,14 @@ A tua atitude exterior deve traduzir o que o teu coração crê:
 * São Francisco de Assis adotou o missal da corte papal para os franciscanos.  
 * A imprensa ajudou a difundir versões variadas, o que levou à necessidade de uniformização.
 
-### De 1570 a 1960
+## De 1570 a 1960
 
 * O papa São Pio V publicou a primeira edição típica oficial em 1570, após o Concílio de Trento.  
 * Houve revisões por Clemente VIII (1604), Urbano VIII (1634), Leão XIII (1884), São Pio X (1920) e Pio XII (1955).  
 * Pio XII introduziu mudanças significativas, como o uso das línguas vernáculas na Vigília Pascal.  
 * João XXIII publicou a edição de 1962, com alterações como a inclusão de São José no cânone da Missa.
 
-### Revisão após o Concílio Vaticano II
+## Revisão após o Concílio Vaticano II
 
 * Entre 1965 e 1967, mudanças foram feitas conforme o documento *Sacrosanctum Concilium*.  
 * Em 1969, São Paulo VI promulgou uma nova edição com grandes reformas:  
@@ -75,7 +75,7 @@ A tua atitude exterior deve traduzir o que o teu coração crê:
   * Aumento das leituras bíblicas na Missa.  
   * Introdução dos ciclos litúrgicos trienais e bienais.
 
-### Revisões posteriores
+## Revisões posteriores
 
 * Edições típicas foram publicadas em 1970, 1975 e 2002 (esta última aprovada por João Paulo II).  
 * Bento XVI autorizou correções e acréscimos em 2008.  
@@ -252,17 +252,15 @@ Caso se esteja a usar o Missal da Presidência, o acólito deve mudar para o Mis
 
 ### Oração sobre as Oblatas
 
-Oração sobre os dons apresentados (pão e vinho), pedindo que Deus os aceite e os transforme para nossa salvação.
+Oração sobre os dons apresentados (pão e vinho), pedindo que Deus os aceite e os transforme para nossa salvação em nome de todos os presentes.
 
 Podemos encontrá-la na página própria do tempo ou dos santos, missa comum ou votiva, conforme a marcação da Missa do dia.
 
-### Prefácio
-
-Introdução ao cântico do Santo, louvor a Deus pelas suas maravilhas e pela obra da redenção. Varia conforme o tempo litúrgico ou a festa celebrada.
-
 ### Oração Eucarística
 
-Oração central da Missa, que inclui:  
+Oração central da Missa, que inclui:
+- **Prefácio**: introdução ao cântico do Santo, louvor a Deus pelas suas maravilhas e pela obra da redenção. Varia conforme o tempo litúrgico ou a festa celebrada.
+- **Aclamação/Santo**: cântico de louvor a Deus, proclamado pela assembleia.
 - **Epiclese**: invocação do Espírito Santo sobre os dons.  
 - **Narrativa da Instituição**: palavras de Jesus na Última Ceia.  
 - **Anamnese**: memória da paixão, morte e ressurreição.  
@@ -293,7 +291,7 @@ Encontram-se na pega clara mais acima.
 
 Oração ensinada por Jesus, rezada por toda a assembleia como preparação para a comunhão.
 
-#### Rito da Libertação / Embolismo
+#### Rito da Paz / Embolismo
 
 Após o Pai-Nosso, o sacerdote reza uma oração chamada **embolismo**, que desenvolve a última petição do Pai-Nosso ("livrai-nos do mal"), pedindo libertação do pecado e a paz.
 
