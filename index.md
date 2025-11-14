@@ -144,7 +144,7 @@ A IGMR apresenta, de forma detalhada, a sequência de toda a celebração.
 
 De modo resumido, podemos ver as diferentes partes da Missa.
 
-## Ritos Iniciais
+## Ritos Iniciais (IGMR 46–54)
 
 Têm como objetivo reunir a assembleia e prepará-la para celebrar dignamente os mistérios da fé. Incluem gestos e orações que ajudam os fiéis a entrar em atitude de oração, reconhecer a presença de Deus e pedir perdão pelos pecados. Estes ritos criam unidade entre os participantes e introduzem o tema da celebração.
 
@@ -154,7 +154,7 @@ Podemos encontrar os Ritos Iniciais na primeira pega (clara) do Missal:
 
 ![Ritos iniciais no Missal da Presidência](imgs/ritos_iniciais_presi.jpg)
 
-### Ato Penitencial
+### Ato Penitencial e Kyrie Eleison (IGMR 51-52)
 
 Momento em que a assembleia reconhece as próprias faltas diante de Deus e pede perdão. É um gesto de humildade e preparação para participar dignamente na celebração. Pode incluir fórmulas dialogadas ou o *Kyrie Eleison*.
 
@@ -164,7 +164,7 @@ Podemos encontrar os diversos atos penitenciais na segunda pega (escura) do Miss
 
 ![Atos Penitenciais no Missal da Presidência](imgs/ato_pen_presi.jpg)
 
-### Glória
+### Glória (IGMR 53)
 
 Hino de louvor dirigido a Deus Pai, Filho e Espírito Santo. É uma oração antiga da Igreja, recitada ou cantada nos domingos (exceto no Advento e na Quaresma) e nas solenidades. Expressa alegria e gratidão pela salvação.
 
@@ -174,7 +174,7 @@ Podemos encontrar o Glória na quinta pega do Missal e na quarta pega do Missal 
 
 ![Glória no Missal da Presidência](imgs/gloria_presi.jpg)
 
-### Oração Coleta
+### Oração Coleta (IGMR 54)
 
 Oração que conclui os ritos iniciais, reunindo as intenções da assembleia e pedindo a Deus que nos prepare para ouvir a Sua Palavra. É dirigida ao Pai, por Cristo, no Espírito Santo.
 
@@ -190,7 +190,7 @@ Podemos encontrar a Oração Coleta na página própria do tempo ou dos santos, 
 
 ---
 
-## Liturgia da Palavra
+## Liturgia da Palavra (IGMR 55–71)
 
 A Liturgia da Palavra é o momento em que Deus fala ao seu povo através das leituras bíblicas. É composta por textos do Antigo e Novo Testamento, salmos e o Evangelho, culminando na homilia e na profissão de fé. Este rito alimenta a fé e prepara os fiéis para a Eucaristia.
 
@@ -224,7 +224,7 @@ Lido do Lecionário ou do Evangeliário, pelo sacerdote ou diácono.
 
 ![Evangelho](imgs/evangelho.jpeg)
 
-### Profissão de Fé / Credo
+### Profissão de Fé / Credo (IGMR 67-68)
 
 Profissão de fé da comunidade cristã, reafirmando as verdades fundamentais da fé católica. Pode ser o Credo Niceno-Constantinopolitano ou o Credo Apostólico (Símbolo dos Apóstolos).
 
@@ -234,7 +234,7 @@ Podemos encontrar o Credo na sexta pega do Missal e na quinta pega do Missal da 
 
 ![Credo no Missal da Presidência](imgs/credo_presi.jpg)
 
-### Oração Universal
+### Oração Universal (IGMR 69-71)
 
 Preces da comunidade pelas necessidades da Igreja, do mundo, dos necessitados e da assembleia. Expressa a dimensão comunitária e missionária da fé.
 
@@ -244,26 +244,27 @@ Neste momento também são, habitualmente, lidas as intenções dos fiéis, seja
 
 ---
 
-## Liturgia Eucarística
+## Liturgia Eucarística (IGMR 72–89)
 
 A Liturgia Eucarística é o coração da Missa. Nela, os dons de pão e vinho são apresentados, consagrados e distribuídos aos fiéis como Corpo e Sangue de Cristo. Este rito renova o sacrifício de Cristo na cruz e une os participantes à sua entrega.
 
 Caso se esteja a usar o Missal da Presidência, o acólito deve mudar para o Missal completo nesta parte da Missa, colocando-o sobre o altar, aberto na página com a Oração sobre as Oblatas. O Missal da Presidência e a respetiva estante devem ser arrumados de forma a não atrapalhar o sacerdote nem o movimento dos acólitos.
 
-### Oração sobre as Oblatas
+### Oração sobre as Oblatas (IGMR 77)
 
 Oração sobre os dons apresentados (pão e vinho), pedindo que Deus os aceite e os transforme para nossa salvação em nome de todos os presentes.
 
 Podemos encontrá-la na página própria do tempo ou dos santos, missa comum ou votiva, conforme a marcação da Missa do dia.
 
-### Oração Eucarística
+### Oração Eucarística (IGMR 78–79)
 
 Oração central da Missa, que inclui:
 - **Prefácio**: introdução ao cântico do Santo, louvor a Deus pelas suas maravilhas e pela obra da redenção. Varia conforme o tempo litúrgico ou a festa celebrada.
 - **Aclamação/Santo**: cântico de louvor a Deus, proclamado pela assembleia.
 - **Epiclese**: invocação do Espírito Santo sobre os dons.  
 - **Narrativa da Instituição**: palavras de Jesus na Última Ceia.  
-- **Anamnese**: memória da paixão, morte e ressurreição.  
+- **Anamnese**: memória da paixão, morte e ressurreição.
+- **Oblação**: oferecimento de Jesus e da Igreja ao Pai.
 - **Intercessões**: pela Igreja, pelos vivos e pelos defuntos.  
 - **Doxologia final**: louvor final, concluído pelo "Amen" da assembleia.
 
@@ -279,7 +280,7 @@ Também existem as **Orações Eucarísticas da Reconciliação** (na imagem, as
 
 ![Orações Eucarísticas da Reconciliação no Missal](imgs/oracoes%20eucaristicas%202.jpg)
 
-### Ritos da Comunhão
+### Ritos da Comunhão (IGMR 80–89)
 
 Têm como objetivo preparar os fiéis para receberem o Corpo e Sangue de Cristo e viverem plenamente a união com Deus e com a comunidade. Incluem orações e gestos que expressam reconciliação, paz e gratidão.
 
@@ -287,15 +288,15 @@ Encontram-se na pega clara mais acima.
 
 ![Ritos da Comunhão no Missal](imgs/ritos%20da%20comunhao.jpg)
 
-#### Pai-Nosso
+#### Pai-Nosso (IGMR 81)
 
 Oração ensinada por Jesus, rezada por toda a assembleia como preparação para a comunhão.
 
-#### Rito da Paz / Embolismo
+#### Rito da Paz / Embolismo (IGMR 82)
 
 Após o Pai-Nosso, o sacerdote reza uma oração chamada **embolismo**, que desenvolve a última petição do Pai-Nosso ("livrai-nos do mal"), pedindo libertação do pecado e a paz.
 
-#### Saudação da Paz
+#### Saudação da Paz (IGMR 83)
 
 Gesto de reconciliação e fraternidade, sinal de comunhão entre os fiéis.
 
@@ -303,7 +304,7 @@ Gesto de reconciliação e fraternidade, sinal de comunhão entre os fiéis.
 
 Invocação a Cristo como Cordeiro que tira o pecado do mundo, acompanhando a fração do pão.
 
-#### Oração depois da Comunhão
+#### Oração depois da Comunhão (IGMR 89)
 
 Ação de graças pelos dons recebidos, pedindo que a Eucaristia produza frutos na vida cristã.
 
@@ -313,7 +314,7 @@ Deve-se voltar à página própria do tempo ou dos santos, missa comum ou votiva
 
 ---
 
-## Ritos da Conclusão
+## Ritos da Conclusão (IGMR 89)
 
 Encerram a celebração e enviam os fiéis para viverem a fé no dia a dia. É um momento breve, mas essencial, que reforça a missão cristã no mundo.
 
