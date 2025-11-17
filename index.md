@@ -380,3 +380,10 @@ As mudanças para outras partes do Missal, feitas através de fitas ou pegas, ge
 1. Oração Eucarística  
 1. Ritos da Comunhão  
 1. Página própria do tempo/santos (oração depois da comunhão)
+
+# Bibliografia/Leitura Recomendada
+
+* *Catecismo da Igreja Católica, sobre a Liturgia*: https://www.vatican.va/archive/cathechism_po/index_new/p2s1cap1_1066-1075_po.html
+* *Catecismo da Igreja Católica, sobre o Sacramento da Eucaristia*: https://www.vatican.va/archive/cathechism_po/index_new/p2s1cap2_1135-1209_po.html
+* *Sacrosanctum Concilium*: https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_po.html
+* *Instrução Geral do Missal Romano*: https://liturgia.pt/docs/igmr_1.php
